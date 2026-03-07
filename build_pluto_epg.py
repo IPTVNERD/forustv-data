@@ -99,11 +99,17 @@ def indent(elem: ET.Element, level: int = 0) -> None:
 
 def is_match(name: str, normalized_allowed: list[str], threshold: float = FUZZY_THRESHOLD) -> bool:
     n = normalize(name)
-    if not n:
-        return False
-    for a in normalized_allowed:
-        if SequenceMatcher(None, n, a).ratio() >= threshold:
+
+    for allowed in normalized_allowed:
+
+        # partial match first (strong)
+        if allowed in n or n in allowed:
             return True
+
+        # fallback fuzzy match
+        if SequenceMatcher(None, n, allowed).ratio() >= 0.65:
+            return True
+
     return False
 
 def best_fuzzy_match(name: str, candidates_norm_to_value: dict[str, tuple[str, str]], threshold: float):
