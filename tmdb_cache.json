@@ -1,1 +1,754 @@
-{}
+{
+  "rudy": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/fAbfTCRpjHe2rprXBly55KL1dL9.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/flzoI6jEw7J0X5x2rwOMZCwZ57I.jpg"
+  },
+  "the king's speech": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/6dyqfaPdeM5Z22ylw9ZTyjROBo7.jpg"
+  },
+  "flags of our fathers": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/vscsDExaKK0oKqrYBze9Tm2oitf.jpg"
+  },
+  "the prince of tides": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/1AyeW3YlwfhRwLDeUCW686obceb.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/lrhZ2Zfgsgu078X3EC4XMCTe3Vf.jpg"
+  },
+  "sugar": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/dNrk52Rt13MxwahLneTZJezM6qD.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/7sV0OgNkPiY9XPzr0f3rATFrGje.jpg"
+  },
+  "bull durham": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/q3T9bO6p74NcTxWOhdUA6fASQ5T.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/6N852AJyrSV1noX9odRyoZQthcN.jpg"
+  },
+  "song one": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/a6dSJIEMxZFvQ7XJy4sf9fR0p7f.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/AckDhp2FYTD9AbhpDCk6HyrjNc8.jpg"
+  },
+  "carolina": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/tYCO512zPyctTY0C4lgQDgeByHL.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/msfpSvawn3zBWLcOi0gUdvFB2LG.jpg"
+  },
+  "professor marston and the wonder women": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/tbrzHlnE8dNpllLWEe9bwDGNzLe.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/ecinn4iRxpQs4mW7Y7n0b41Qgbe.jpg"
+  },
+  "holy smoke": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/utBNYz1cX43SQKZFH1JmMZU34Dy.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/2BzfOwehPOdnAm4puhTU52EIICr.jpg"
+  },
+  "down in the delta": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/2ygShFSdj1hug8xj2q28OMktAU4.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/4hS2FAz65RKwNYmzyAq4uc994CG.jpg"
+  },
+  "sumotherhood": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/vqCW6r75j092lVge7nkzgDBycJH.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/aeoIkuAsf1a1zz6HlDhqztEfSUl.jpg"
+  },
+  "on the come up": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/aOdvk6ubnx091Oprr6qjJ7OtZ8e.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/ytdxIeeZWP2BUgTRDaSOc2bg1EI.jpg"
+  },
+  "hustle and flow": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/yO5QTMZ2Oex6mwsgJuwRuINGuOQ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/d4ZrRcwEPmLQvOCyrSdWw5NglGB.jpg"
+  },
+  "fear of a black hat": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/jiJp7B74GBKJK8yCqLjMaFu24nJ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/5ezE1ThLm4zLUX9VbXFXlXFePwt.jpg"
+  },
+  "mo' money": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/tLbKMopp46m5i3hukmFkQdCzfDR.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/5ra8ddenBkIGKfk2nB9IfvsVxvT.jpg"
+  },
+  "attack the block": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/wzCMnA6NDruLzgWeqMcLPDrGAdF.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/ncYrkutA6Yd1Gmh8fLyGieWlqLv.jpg"
+  },
+  "top five": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/nM5zWv6zpWHsrKNMrPKg23UHZCA.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/AfsLMtqkFGtlCeCGZNsVuWlTiqF.jpg"
+  },
+  "the wood": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/yEWMSJHkzMLgsTgsvR5TxuP3lBt.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/645iJzNG9A8FqKQ3BhPblKWI2Nm.jpg"
+  },
+  "dance flick": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/qqaM8jQhALhULwvm3eEepkBTQHJ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/yTg0O6dYknEp3yPDnsI1jp4Aj8T.jpg"
+  },
+  "a haunted house": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/tpw6kvuAJBo1CGRw1Bwdz1KU0hc.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/cMmyQLngx0maSp6EvyK3EOPIQKM.jpg"
+  },
+  "a haunted house 2": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/oV7M00fPXy5P0nbdeMbSUjYv0vx.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/zHF0KdYTuKkwyaE1mt0oFeCB2EF.jpg"
+  },
+  "fifty shades of black": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/nkGhv7WMbyX7tL8CJkvMY3S2lW.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/y6VYJEvzWhTCXrrv0ubiczOpVND.jpg"
+  },
+  "i'm gonna git you sucka": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/4PZ0CED293fkLjwhPOQ6BpbUgU2.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/z3tAdLDRWqoMgtl349aStimMtIs.jpg"
+  },
+  "barbershop": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/8PazY5yDKkZh0VMKdmVOPMJNhHw.jpg",
+    "backdrop_url": ""
+  },
+  "barbershop 2: back in business": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/n4sOe401udZJWJEOvKvSs3peZcB.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/pGlgLhYBBiPerXXgERqsEKn7VlP.jpg"
+  },
+  "barbershop: the next cut": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/9mwzidlGgWfr2hcMWUKM86lOqdo.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/iI8okuTbcf6JCyBM3oLcneW6bDF.jpg"
+  },
+  "selma": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/wq4lhMc4BuOyQqe1ZGzhxLyy3Uk.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/bTnUxw2qH4oBGDMM0w4r6KQ11BD.jpg"
+  },
+  "marshall": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/2KfdXsXTCbMie0wB1mSmIX60C2F.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/8nh70OvIsJKpfZdTMZoMJMb8aVE.jpg"
+  },
+  "night catches us": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/19Hpp2GpooohO0DorCR9nGwJ6L7.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/b7kLVAK49x6cQ6rsMrSTqUNOW4z.jpg"
+  },
+  "jimi: all is by my side": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/dsNU5nwOy30WfTet32cLiOsFkkN.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/cgLiIJe1aW0J007EUUnWUpMX2Wt.jpg"
+  },
+  "kiss the girls": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/25h5I3E3ydhazsPDnscWHivq5pn.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/y319VH0gIFie6KEO5L4nHhxxQUw.jpg"
+  },
+  "jennifer eight": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/pMlk8spEliRD6hr4ILs5ubHeBGT.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/dAWlWircXrlnMjsVZSyb7vgMlIo.jpg"
+  },
+  "bram stoker's dracula": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/jSxCIZXudp5q8wQO8VERGX8hRAl.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/jhs21DDKZM6J9k448R1m0w67pD.jpg"
+  },
+  "sleepy hollow": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/2RHj62XneYMCRPAyQrEIrKVij12.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/jHkeqXYUU4khZEig88AFLMUOmep.jpg"
+  },
+  "mimic": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/ieRRo78f8JzEKxfiCKqJyFg6l8o.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/bouH0jYhfiAHn28B3AygP0XO6V8.jpg"
+  },
+  "the crow": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/cLqvQbP2utIKHRonwXnDjY3l1kk.jpg"
+  },
+  "bad news bears in breaking training (1977)": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "bad news bears go to japan": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/4NNRDDMCZAI4UEgcQPUqRD147cw.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/9c08OiyAJLQeoEoBEJ5BKFpXUsa.jpg"
+  },
+  "bang the drum slowly": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/2MojRzTHI2UMmhEANYZZCsMPHr.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/4lFsPbhYcez7EvKCpNyVl9IacsD.jpg"
+  },
+  "heaven can wait": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/h1yOiO9cow6gwmGxSAWvPdY4lhJ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/yucBYHGAMaTu2HsxM2k9JWRxSlj.jpg"
+  },
+  "semi-tough": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "coffy": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/sN00Cvlahl6JLC2TAUBL0jZOqD3.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/jztSvvmOUEP8V85xadxMRoE5e2O.jpg"
+  },
+  "friday foster": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/dGADshou0bUIGGt0vompPORdKtn.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/mLsp1PMVvNxF4ZdcwvrffKrKBZn.jpg"
+  },
+  "foul play": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/mk3enoeLNRXRnYGxKcvPXYY1xci.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/dvIvwj6tZ60do6pCMHQOL6onpqq.jpg"
+  },
+  "murder on the orient express": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/7GtdJU6iAg6fjQu3E3zta3bIAQh.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/IQyEvPTYvrzsa7qstRj6VLQupr.jpg"
+  },
+  "on a clear day you can see forever": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/maUgkAqcTTBpMbZoxUmuxtb9mzk.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/3XKMnHWide4UiYg91P5dV073IVS.jpg"
+  },
+  "tell me that you love me, junie moon": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/m8gntXfzQGZtjnAc7cixC2khiw7.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/smLc9NwQ5fBhmRiUfPGWcsKbMv9.jpg"
+  },
+  "moesha": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/6I3VCk8GCscaPM3aKOTJlzIaqhc.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/eQuNP6LUFKJmP4f4iNLJWoi3g3h.jpg"
+  },
+  "hangin' with mr. cooper": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/y6jjIhPcvNijt632WAa4AuXu73L.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/idvQZx9CufFb3a5y6rojNJLkBSc.jpg"
+  },
+  "malcolm and eddie": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/l6zPtpkP0wejienR6KBZboeEMR0.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/23oPuRtGRchwb8PHqO6UKzpocF2.jpg"
+  },
+  "half and half": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/8TVku3ieyStr4mJihUZal2gay9I.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/2PtQyFLTdpzr7MkxKCTBN5dmPpA.jpg"
+  },
+  "everybody hates chris": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/zX0xZnyReJxtGAqDOS3WcsgpOgx.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/qji729gwCW88RpIIWidlaLTul3V.jpg"
+  },
+  "the steve harvey show": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/iGUWv21kgKc79bpYxImk2nTIPin.jpg",
+    "backdrop_url": ""
+  },
+  "sister, sister": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/fzJHEbfgRM5uJaon5AVxwJxFMSF.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/iMchJspN4irOysGlYXKeqgTDOO1.jpg"
+  },
+  "tyler perry's house of payne": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/2NdUdJnZnwI6skvm6OXWrK2D42U.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/4bzSEBjVb3QwPaJ39Rp2gmH9Bug.jpg"
+  },
+  "are we there yet?": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/pDhGyrMlgrM5GKtPaJINP3Xg1kr.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/iCDs2rHzB68TmpHQ9Xk4uaNzP7f.jpg"
+  },
+  "tyler perry's love thy neighbor": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "nick cannon presents: wild 'n out": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/9I00u4M54u5tulUQT6qVFOZKMvt.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/desDFpjZHiBc4ENHIPs3NLWctWS.jpg"
+  },
+  "227": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/yoIFuErMvCb4ZTSnQ079cIcWYjf.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/rSp9xdhF8PiTUUU9xmhXEjxgHLc.jpg"
+  },
+  "the jeffersons": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/iFjIaWr9qDKMLnnh8tHwO6Tzp6D.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/JdMKUtYVUKUqXaMh2ZzlxAphR8.jpg"
+  },
+  "sanford and son": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/zIGPWBFjfnOzqsMxZeQ4UmuPggQ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/9bKG3fEyUjDizCL164OgfFGYTUs.jpg"
+  },
+  "tyler perry's sistas": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/9UtwdSXDkDMvqAdMJsbB8JLlBEH.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/8pWr7esugITmgrH22OXVmRg8xks.jpg"
+  },
+  "sistas": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/n3lg7WRMwplqMoKjQg9pVudGRaS.jpg",
+    "backdrop_url": ""
+  },
+  "tyler perry's the oval": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/b5PTXErp18fzi8e2MQv2HlEiE23.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/nHhczDKcSsnNFWDHVTMhXcnh9zF.jpg"
+  },
+  "ambitions": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/yZR31jvMgGwG4i0Z6Jee2iRUHyI.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/9c93Cao5u30HPRbcZjjUBwzc0TT.jpg"
+  },
+  "survivor's remorse": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/6C6GQ6f2bNmXY3oCPBYV23PqDwY.jpg"
+  },
+  "power": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/ctftzvyj8b0odco7EoS9VfJhf7K.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/gG1UDKgnATgTPwoZzqIDlGvnBe1.jpg"
+  },
+  "1-800-missing": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "fbi": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/5DFvscYGpcFaQMJljCic5gbzVe6.jpg"
+  },
+  "ncis": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/nn3SuLTO4hum8yAxaY4ql8h6kRk.jpg"
+  },
+  "s.w.a.t.": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg"
+  },
+  "storage wars: northern treasures": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/gvvWMVN78MQH2qND0VToDuYoAQP.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/p9Y0ibH4rPBTbn3LEuG3WIsmER4.jpg"
+  },
+  "the curse of oak island": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/5pN8ouV9pWL5M7pSbz22IEXtNO8.jpg"
+  },
+  "auction hunters": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/jbkGPIK6I8yOhMqCA14hUsW5eGh.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/5igtuhQ4lStw4zBjJF8R1wLckx7.jpg"
+  },
+  "beverly hills pawn": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/uPgem2toesan0btNIq02dByFPzq.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/c8ytgavwPZEuqoZqW1DPg8yop2T.jpg"
+  },
+  "shipping wars": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/AcZTjWs5ajlLaHjsahSKP6R3JdP.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/3ghildg6A8m01YKpCVAkSeIKf4Z.jpg"
+  },
+  "black ink crew": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "black ink crew chicago": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/afKCDnjYzr8rkVzhrTq3bpMwRLo.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/fTY2MSZeZrmpHkir4eGc7A8SWrT.jpg"
+  },
+  "love and hip hop atlanta": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/lAiXiiTWsqPDKhafq9XNoboZ8gC.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/cW0i8eY9Z2o4SY44uUrSDwkdWHv.jpg"
+  },
+  "love and hip hop hollywood series": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "love and hip hop miami": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/tmmkMPiNwPz2i2twiaGz8hV3iTf.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/kSUdS83TdawTqiNkTgsucfiiLJ7.jpg"
+  },
+  "the parkers": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/vV2wJKLoM3VnHUkNoRHMaLc968c.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/cQS61ikUL78Cv0DM7CL5r7HUN2z.jpg"
+  },
+  "girlfriends": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/buFnsyWEg4pPR7dco5Vbsm6HCIY.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/lJEItmoc7bdqvA0yS5quuBIwW0N.jpg"
+  },
+  "love and murder: atl playboy part 1": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "love and murder: atl playboy part 2": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "dear best friend": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/z0FaFQyAJQpl0tGGTqoBD9yQt5o.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/7bidBfC0LNn5JESmtILtA13h4GV.jpg"
+  },
+  "dance for me": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "escapecation": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/8aWX8MBZ1gDDUT9SYjcNFASEFlB.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/547OwWLzKaI9kmDO5TY3pWO6z1w.jpg"
+  },
+  "call her king": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/k8UVZmtBRS2LDfO0mHU4ojxUsAP.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/9rqfuvBOCkrBWhRfqRBOdCNIWMA.jpg"
+  },
+  "a message from brianna": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/sOW8ohyVe6WwUp9jtpp3Y6oLuF0.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/dL7Rik1vcjZD1NTvAeU7AP4KfIO.jpg"
+  },
+  "ncis: los angeles": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/dAepkmD4vdfhS82r2OIqF1nwGR5.jpg"
+  },
+  "the listener": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/8408RJvs3zRjA0e69I1zJTRxQye.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/h6GA4qaV6WUpULdAl0NdYKtXsUL.jpg"
+  },
+  "bull": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/r6bM2rNjSk5b9gWBOOKCVgKbjc0.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/iDu6LmIVHWiCdcW6CZcOP5Kx7Gr.jpg"
+  },
+  "a low down dirty shame": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/v5XUfLrdoGfatObGXhqckYTNqFT.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/sXjws2JQcuv2yrL5TVgrWSvEtyY.jpg"
+  },
+  "metro": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/nvfyHYv1EDpYai5pCGqBeRf3tax.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/vGzPiKNj3Tw9NR4F6EyexqniEqm.jpg"
+  },
+  "pain and gain": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/9WqA0Ry9wmTzFvom8mNbcyKZQgP.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/cb3ivKXzyveKMvaD72IpKX9JVys.jpg"
+  },
+  "the tracy morgan show": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/GrKpvGIboKhX4IvY4WOAIVXDP9.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/p0OIZKXtIzy8lK6AW23GBo1Mbll.jpg"
+  },
+  "heist 88": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/4ueFteb6V38fnSWTN4jIbLOlMlM.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/u6JGnIabQslWMzX03hb3weEbvx0.jpg"
+  },
+  "last call": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/bySCgLjkmPFuUd0ExwruObY9VHn.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/sPuANGEwysJe3ey3BmrX1vdvz7G.jpg"
+  },
+  "mann and wife": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/jBQbFIeIuIRaritD6DbiDjogIFo.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/qQMxrDsBFPrXW8q5QFJEmmhuwna.jpg"
+  },
+  "in the heat of the night": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/tZ1EH5HiMclbP6DWgIl8D7qETv2.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/ploUH2EYcNQhjWivB9zC6HdfHxn.jpg"
+  },
+  "nothing to lose": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/umbzQyRMeB1oHTKiymTlH591xNB.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/y7fsDAazaQudZHMrTTegPjWdFT.jpg"
+  },
+  "tower heist": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/jQrroNwP8hbFiUlNMs20emauwPE.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/7BtEvieL4QRNW3j7OAw6Zv2CDap.jpg"
+  },
+  "16 and pregnant": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/pNNHlx6ySP9Xyfx7RetkI4hV5x1.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/d4x5Ednq9Z2zvjyLouFquMxJ4fU.jpg"
+  },
+  "siesta key": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/h4wTCi6vn1y4NHjquytTGetFvAK.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/yz3bZqwaaLmVri3DPz30aay6XLo.jpg"
+  },
+  "punk'd": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/sqcaFHnnJU1nIbUikN3cpm9Mjn9.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/9ERhB2NEcwpOaWJeE4q64wPSBSV.jpg"
+  },
+  "mtv cribs": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/yFKZWU5s4vTgw87Vm14h0GrtUkt.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/g9mghALOkdub2dUXgEaaFy16mYZ.jpg"
+  },
+  "laguna beach": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/40SJwdcrq4AQb5EWMRSbfb23SKI.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/a6UZuXCF58Rb9HUdRBVcjpE9QCm.jpg"
+  },
+  "the hills": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/8GJUXpC1IPCFRrWN1vQzrkNnKXz.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/gsiIUJzGPLRYZXmm9lscmhlqgOo.jpg"
+  },
+  "rupaul's drag race": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/ySs9xkTfPgQCUNB2ctOzcMWP14n.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/hEtBwhqAzHKihQ1H9QD2kj8bJ5.jpg"
+  },
+  "et weekend": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "et vault unlocked": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/gnAeSf5zPjOOfBxtYU4hNZH65hN.jpg",
+    "backdrop_url": ""
+  },
+  "et weekly rewind": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "et: what we're watching": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "yellowstone: stories from the bunkhouse": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "yellowstone: extras: behind the story": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "spilling the etea": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "et uncovered": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/q58Wwfs3Am0rkNTOqudt2WiOxko.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/9QCI5PpTW9ezEazyjXj0o4NLNVn.jpg"
+  },
+  "et retrospective": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "here comes the sun": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/10XOgTrRYMNHKRSjHypM1G6v1HG.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/uApRJhQ7kooKrW6isVvv6VUihB6.jpg"
+  },
+  "et interview": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "iran barkley vs thomas hearns 2": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "isaac dogboe vs adam lopez": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "isaac dogboe vs jessie magdaleno": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "jamel herring vs carl frampton": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/yHhc0Pz2zle7iWmZKEAS03dv1A2.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/eahJrCEFwCpkvgWsG4tUfG7xni8.jpg"
+  },
+  "jamel herring vs masayuki ito": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "jamel herring vs shakur stevenson": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/1uKxxNgLeiWmlJnyPFKUtpdxyDN.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/3dO6mEywo6F4igFxBGfPy6Dcbk7.jpg"
+  },
+  "james toney vs charles williams": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "james toney vs dave tiberi": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "james toney vs freddie delgado": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "james toney vs iran barkley": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "james toney vs michael nunn": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "james toney vs mike mccallum 1": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "james toney vs mike mccallum 2": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "james toney vs mike mccallum 3": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "james toney vs tim littles": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "janibek alimkhanuly vs hassan n'dam n'jikam": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "janibek alimkhanuly vs rob brant": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "jared anderson vs kingsley ibeh": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "jeff harding vs dennis andries": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "joe smith jr vs eleider alvarez": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "joe smith jr vs maxim vlasov": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "johnny tapia vs danny romero": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "jorge arce vs hussein hussein": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "jorge arce vs wilfredo vazquez jr.": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "jose luis castillo vs. stevie johnston 1": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "jose ramirez vs amir imam": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "jose ramirez vs antonio orozco": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "jose ramirez vs jose zepeda": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "yo! mtv": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "heavy spitters": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "old 2 the new": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "true school hip-hop": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "hip-hop of the 90's": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "golden age of hip-hop": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "true school ladies": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "hip-hop house party": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "hip-hop of the 80's": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "new school hip-hop": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "randb videos": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "today's hip-hop and randb divas": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "alicia keys: a woman's takeover": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "grown and sexy": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/9upbXEwYtn3y4uzKXV2GGgexlCw.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/rP6PfJ1LMUjL8rUKWqvpi3Jm6fS.jpg"
+  },
+  "trap soul": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "randb party throwbacks": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "afrocentric": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "queens without borders": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "randb morning vibes": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "praise and worship": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "trending on tiktok: hip-hop and randb": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "souled out": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "dscvr new music randb": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "love it live: randb": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "gershwin's greatest hits": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "gabriela montero plays ravel and montero": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "classica spotlight": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "chopin: piano concertos no. 1 and no. 2": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "mahler song cycles: songs on the death of children": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "symphony no. 5": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/nueJ2eBR9lDtrnP9DSlGjbszJVx.jpg",
+    "backdrop_url": ""
+  },
+  "j. s. bach - chamber music": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "brahms - symphony no. 4 in e minor, op. 98": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "fantasymphony - a concert of fire and magic": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/5bhDrRFl9GTIzxhNr8bSy4QewmJ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/y4xpufVAlZXJUqzcB6AIlVte4fc.jpg"
+  },
+  "franz in vienna: mozart and schoenberg": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "fiesta del tango": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "schubert - symphony no. 8 in b minor, d. 759": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "beethoven -- symphony no. 6 in f major, op. 68": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "romeo and juliet": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/vaBQKLbSWkXGTOlsz9ARdJP4lvg.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/zQyNGzYD144sbFKrfBP8mFwqDxn.jpg"
+  }
+}

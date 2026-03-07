@@ -1,1 +1,198 @@
-[]
+[
+  {
+    "name": "Pluto TV Drama",
+    "channel_id": "pluto-tv-drama",
+    "logo_url": "https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png",
+    "local_file": "Pluto TV Drama.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "BET Cinema",
+    "channel_id": "bet-cinema",
+    "logo_url": "https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG_1759338280891.png",
+    "local_file": "BET Cinema.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "BET Comedy Movies",
+    "channel_id": "bet-comedy-movies",
+    "logo_url": "https://images.pluto.tv/channels/68c32d88f56983aba40052bd/colorLogoPNG_1759246622596.png",
+    "local_file": "BET Comedy Movies.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "BET Visionaries",
+    "channel_id": "bet-visionaries",
+    "logo_url": "https://images.pluto.tv/channels/663946c1b18d700008d9c168/colorLogoPNG_1759338795452.png",
+    "local_file": "BET Visionaries.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "90s Throwback",
+    "channel_id": "90s-throwback",
+    "logo_url": "https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png",
+    "local_file": "90s Throwback.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "70s Cinema",
+    "channel_id": "70s-cinema",
+    "logo_url": "https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png",
+    "local_file": "70s Cinema.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "BET Throwbacks",
+    "channel_id": "bet-throwbacks",
+    "logo_url": "https://images.pluto.tv/channels/61326275b3c86a00078e4833/colorLogoPNG_1759340015358.png",
+    "local_file": "BET Throwbacks.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "BET x Tyler Perry Comedy",
+    "channel_id": "bet-x-tyler-perry-comedy",
+    "logo_url": "https://images.pluto.tv/channels/666b265722acab000885c6aa/colorLogoPNG.png",
+    "local_file": "BET x Tyler Perry Comedy.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "Black Family Sitcoms",
+    "channel_id": "black-family-sitcoms",
+    "logo_url": "https://images.pluto.tv/channels/686d61503484d6073283059d/colorLogoPNG_1752619670829.png",
+    "local_file": "Black Family Sitcoms.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "Wild 'N Out",
+    "channel_id": "wild-n-out",
+    "logo_url": "https://images.pluto.tv/channels/5d48678d34ceb37d3c458a55/colorLogoPNG.png",
+    "local_file": "Wild _N Out.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "BET Classics",
+    "channel_id": "bet-classics",
+    "logo_url": "https://images.pluto.tv/channels/60f85644a9493e0007a1f035/colorLogoPNG_1759339662769.png",
+    "local_file": "BET Classics.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "BET x Tyler Perry Drama",
+    "channel_id": "bet-x-tyler-perry-drama",
+    "logo_url": "https://images.pluto.tv/channels/666b38a5efa2a10008b15b3a/colorLogoPNG.png",
+    "local_file": "BET x Tyler Perry Drama.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "Ebony TV Drama",
+    "channel_id": "ebony-tv-drama",
+    "logo_url": "https://images.pluto.tv/channels/6675c713fc3a46000863dde7/colorLogoPNG.png",
+    "local_file": "Ebony TV Drama.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "More TV Drama",
+    "channel_id": "more-tv-drama",
+    "logo_url": "https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/colorLogoPNG.png",
+    "local_file": "More TV Drama.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "Spike Pluto TV",
+    "channel_id": "spike",
+    "logo_url": "https://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/colorLogoPNG.png",
+    "local_file": "Spike Pluto TV.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "Black Ink Crew",
+    "channel_id": "black-ink-crew",
+    "logo_url": "https://images.pluto.tv/channels/5d51e2bceca5b4b2c0e06c50/colorLogoPNG_1731835399139.png",
+    "local_file": "Black Ink Crew.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "Love & Hip Hop",
+    "channel_id": "love-and-hip-hop",
+    "logo_url": "https://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png",
+    "local_file": "Love _ Hip Hop.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "BET Pluto TV",
+    "channel_id": "bet-pluto-tv",
+    "logo_url": "https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png",
+    "local_file": "BET Pluto TV.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "ION",
+    "channel_id": "ion",
+    "logo_url": "https://images.pluto.tv/channels/65453f30085df200085883d8/colorLogoPNG.png",
+    "local_file": "ION.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "Bounce XL",
+    "channel_id": "bounce-xl",
+    "logo_url": "https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png",
+    "local_file": "Bounce XL.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "MTV Pluto TV",
+    "channel_id": "mtv-pluto-tv",
+    "logo_url": "https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png",
+    "local_file": "MTV Pluto TV.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "Logo Pluto TV",
+    "channel_id": "logo-pluto-tv",
+    "logo_url": "https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/colorLogoPNG_1731836723261.png",
+    "local_file": "Logo Pluto TV.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "ET",
+    "channel_id": "et",
+    "logo_url": "https://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png",
+    "local_file": "ET.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "Top Rank Classics",
+    "channel_id": "top-rank-classics",
+    "logo_url": "https://images.pluto.tv/channels/64d160f53c785e0008df525e/colorLogoPNG.png",
+    "local_file": "Top Rank Classics.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "Yo! MTV",
+    "channel_id": "yo-mtv",
+    "logo_url": "https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png",
+    "local_file": "Yo_ MTV.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "Vevo True School Hip-Hop",
+    "channel_id": "vevo-true-school-hip-hop",
+    "logo_url": "https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png",
+    "local_file": "Vevo True School Hip-Hop.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "Vevo R&B",
+    "channel_id": "vevo-randb",
+    "logo_url": "https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png",
+    "local_file": "Vevo R_B.png",
+    "epg_match_score": "1.000"
+  },
+  {
+    "name": "Classica",
+    "channel_id": "classica",
+    "logo_url": "https://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png",
+    "local_file": "Classica.png",
+    "epg_match_score": "1.000"
+  }
+]
