@@ -750,5 +750,105 @@
   "romeo and juliet": {
     "poster_url": "https://image.tmdb.org/t/p/w342/vaBQKLbSWkXGTOlsz9ARdJP4lvg.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/zQyNGzYD144sbFKrfBP8mFwqDxn.jpg"
+  },
+  "catch and release": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/mcGvcb65JdftAHxyhxd2dxCPNOa.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/lhw6WtUgbxvrFnGHynZfOYh8aoz.jpg"
+  },
+  "dreamgirls": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/sG5JyOj8Spe13QkNJMH8b5kzQUh.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/8wYluVq5AVXhnFFMhUYD9D4rTz5.jpg"
+  },
+  "cadillac records": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/u2GtllItFwaXMLj4uCeKYt9wf4l.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/ubgl0v0crnOGYPGkR2hhIwv7Chm.jpg"
+  },
+  "black dynamite": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/o1E5J4QQ3ATBpns69LR5FQy1QJI.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/fyborNmaXj3CujrDmcm6tcOzoUZ.jpg"
+  },
+  "beyond the lights": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/5Di9UXTa2bDec68WOFcZzgB1ot3.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/2RZIAureYbJCCqyduAgM1RwtRRl.jpg"
+  },
+  "flirting with disaster": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/yfuYLKrOcSlzydbtwdHeAWddKO7.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/gzlGNZczKeBsNskj8MLGlh0fIc1.jpg"
+  },
+  "the birdcage": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/hU2XeckncHS61TWZKDtw1BrKmOO.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/yNOtXSNep1BLnfZ0yhLejm1TULi.jpg"
+  },
+  "sense and sensibility": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/gadMPKXNMZKdOTDuJaVHbi8Nt1a.jpg",
+    "backdrop_url": ""
+  },
+  "plaza suite": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/eTLNtNRWSXaRMnTGAqz5Bjcem94.jpg",
+    "backdrop_url": ""
+  },
+  "a new leaf": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/l1bh3i49OhOp2OxKcSANT1sW6QV.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/69EBHsdxqnbLqkyQ0VOrK2ShvT.jpg"
+  },
+  "chilly scenes of winter": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/teN4NJdGcHbIm9IwXerysNknmGh.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/4V5BVaqbKcfey3bu9Gg4qqJIz0P.jpg"
+  },
+  "ebony tv drama": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "cia": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/5lyGqz3YiqpKNgS78xiZ4ImpB8w.jpg"
+  },
+  "till death do us": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/brR50PHLVwsrLGl46Fdl86GeGyY.jpg",
+    "backdrop_url": ""
+  },
+  "secret society": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "saints and sinners": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/dAnMf6cpuq0p0PLEGrX0wCXyS4d.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/lPswBKYW4zxZMQU2ARU5o4CZBpf.jpg"
+  },
+  "jose zepeda vs ivan baranchyk": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/qaBJM0125gGQPlzen7MawqZveB9.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/htU0x8BsQHj9QtnP86W2xDPsC1w.jpg"
+  },
+  "josh taylor vs jose ramirez": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "juan manuel marquez vs manny pacquiao 4": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "juan manuel marquez vs mike alvarado": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "julio cesar chavez vs ivan robinson": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "julio cesar chavez vs ken sigurani": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "grieg's piano concerto and beethoven symphony no. 7": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "la bayadere": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/1rMaJ25sgxyIZDlyQgy3w7tJ55u.jpg",
+    "backdrop_url": ""
+  },
+  "fantasymphony: one concert to rule them all": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
