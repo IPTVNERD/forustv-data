@@ -2758,5 +2758,181 @@
   "a night in vienna": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "the weather man": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/oQilVzOxLPxvBn9hAuvGpKTpONM.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/wn2zysoNM6QncXEw9MyvSGJ6eS1.jpg"
+  },
+  "titanic": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/qBChUbS8ksbJoPTfZpogsnxG5tY.jpg"
+  },
+  "catch me if you can": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/ggC3Brchf4RqPitEh7cROFoeAWn.jpg"
+  },
+  "gangs of new york": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/ykqSwE2vUrcocu4w9e99bxLBrXd.jpg"
+  },
+  "the aviator": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/ki6g4TF5maq0PJF7vq4uOCAYq1Z.jpg"
+  },
+  "shutter island": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg"
+  },
+  "caught up": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/sOkZ2FJ4hhVKMyO7EkHOjgKqs4L.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/grRS1JR1IB6NXriWaX4M9rc8aXo.jpg"
+  },
+  "ghost": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/6nLdSON3ErniBZTXWG7WRqs5jGz.jpg"
+  },
+  "event horizon": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/nByMcYBhChTs2TF9fEFcTSsjme5.jpg"
+  },
+  "total recall": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/x2wOlXuK4NzPDQ0OBZiJjNNOp6Y.jpg"
+  },
+  "starship troopers": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/7iEfnj3rfyunky6BzvnlwqfoEF0.jpg"
+  },
+  "three days of the condor": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/zinwtZqdb7gnc4zMu8dfkK1fMN3.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/paaOfARLLJTV2IfqsPwM7pxxSHp.jpg"
+  },
+  "the molly maguires": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/3ywN7tPWiOkbalS2gAEPzNk4Nq9.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/e7lBLa8S2c9lnSdU4MWfuzv7z9L.jpg"
+  },
+  "cotton comes to harlem": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/tW30OfbGhe2uFBw4cr6tKsZwCcl.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/l3X1Qgnsckji8uRDP3ZxpXZZqkZ.jpg"
+  },
+  "they call me mister tibbs!": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/7UMb7hDPMlJPOvRgkclclnbtjRq.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/oD4Akba6diPx2zB0GOlYLyC9Rsb.jpg"
+  },
+  "the organization": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/2FKlfGq6cxScLrcFUIWGAavFdxA.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/u9CmLPfD3RTiwoBymqBEi07gQzP.jpg"
+  },
+  "truck turner": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/lMB0WY73s8AOns9cUmdAT3USreo.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/9xm4km4yn93VxJBGweqWW4rNKAl.jpg"
+  },
+  "hit!": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/3J7reLsmnYxMrVuoFm5FA1nvB4o.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/uqUGZAn887Xg0CH4joXtogXB6cE.jpg"
+  },
+  "across 110th street": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/2RFefK8DS8eUEuYyiN3tLAyM5IX.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/2XyMfDM9YRuu4dMD05dx60ZD7xN.jpg"
+  },
+  "black caesar": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/yq07GtsZiN1Ot2QkTWsKQypq65m.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/jQoflqxtNO0v7m9XZsxEEzzBris.jpg"
+  },
+  "hammer": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "hell up in harlem": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/ae2g3POHhgE2oZF8GcboIawkmRe.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/syj0bAmGtXR5PJhbRjxsnq64FzU.jpg"
+  },
+  "a taste of betrayal": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/uwuWCz5jSPa5WNliLbWbOVLBL6X.jpg",
+    "backdrop_url": ""
+  },
+  "game of deceit": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/keZN60vOePXIoQ4EnkvrAleELdR.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/fnOv749ek9yiS865xioiq1e62bo.jpg"
+  },
+  "no conscience": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/xsDBkJLOSHH86c6FbnNnimpOUHH.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/nHf3M7CrDPHR8UN9MGpB1YHkKfU.jpg"
+  },
+  "twice bitten": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/mNg3PsTzJInQ4YmSQ3FbUi2qOoZ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/1QltdhbH4wx75Nf5bwiZeiqrEc9.jpg"
+  },
+  "black girl erupted": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/kSQvgrWfA7lp9WB0IRT8BdGpm8j.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/qBGyJn9VAJoXmPAftFWzsAcFkCH.jpg"
+  },
+  "swag inc.": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/6lLQcfGbSr5eKq68fVLFkAKGNmf.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/nMqRwc3rzoJIDu7Ju5D9jihsimZ.jpg"
+  },
+  "my first love": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/f5Tz61lj6au8svPoCPhmomVnmRy.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/vsFlEfRmsjfnCoLLOzc4aBK2LL2.jpg"
+  },
+  "stock option": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/jBVv53BeCv0s6QHyiqTo1ce37U0.jpg",
+    "backdrop_url": ""
+  },
+  "whoopi": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/fYRMjpZUBxvzU4xqvXTISJ34Bsa.jpg",
+    "backdrop_url": ""
+  },
+  "et at the oscars": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "best of manny pacquiao": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "best of marvin hagler": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "best of mike tyson": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "best of mike tyson, muhammad ali and george foreman": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "best of muhammad ali": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "best of naoya inoue": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "best of nico ali walsh": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "best of shakur stevenson": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "best of teofimo lopez": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "septets by mozart and beethoven": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "schubert - string quartet no. 15 in g major": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "symphonies mozart and vorã­å¡ek": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
