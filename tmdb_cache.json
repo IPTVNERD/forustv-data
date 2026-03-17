@@ -3142,5 +3142,97 @@
   "floyd mayweather vs demarcus corley": {
     "poster_url": "https://image.tmdb.org/t/p/w342/gDE5I6o5lz5c5KnsApgulzuFkfr.jpg",
     "backdrop_url": ""
+  },
+  "evelyn": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/kGsCpJcJj9JDsSLQRlfukNuZJgq.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/q3P6P6yVij3i16B4F0sotx8IOzB.jpg"
+  },
+  "angela's ashes": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/3Zzcys11nAPP14sKW9l97fIHhkK.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/oKNe6Ids29lqvG6PFc4qxlB3j1R.jpg"
+  },
+  "the commitments": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/iccBDq9aS1gwi6b8aJjBgPU4t2D.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/bQHHEFYBZc23nhbo0z0qB7nxW31.jpg"
+  },
+  "breakheart pass": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/li6BdgpVeMsgIjDugiVfHJGwPTp.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/AqPFdlxpHZ61fnUdX5yCfkD20MF.jpg"
+  },
+  "bobbie jo and the outlaw": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/m32mECgVlf6b4laxNf017lIlgDe.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/sdB47qpxcYDxHZSQDJHUxK4oAXg.jpg"
+  },
+  "good deed gone bad": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/jYPootIOvt1pNhcNt1hGWGqCrRW.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/9yyeRCgZ6zAb9t7i5VF9KJfX8Q9.jpg"
+  },
+  "floyd mayweather vs diego corrales": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "floyd mayweather vs hector arroyo": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "floyd mayweather vs larry o'shields": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "floyd mayweather vs manny pacquiao": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/mTDpZ0xwCPBJYuMSdCXZTBsPC3y.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/A8gu46h5qmmMpLrOxttqBOLUAVN.jpg"
+  },
+  "floyd mayweather vs phillip n'dou": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "floyd mayweather vs zab judah": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "freddie roach vs joe ruelaz": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "freddie roach vs mario chavez": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "genaro hernandez vs azumah nelson": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "george foreman vs adilson rodrigues": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "george foreman vs alex stewart": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "george foreman vs gerry cooney": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "george kambosos vs devin haney 1": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "giovani santillan vs angel ruiz": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "hector camacho vs sugar ray leonard": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "humberto soto vs urbano antillon": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "iran barkley vs thomas hearns 1": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
