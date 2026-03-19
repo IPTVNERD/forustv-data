@@ -3290,5 +3290,45 @@
   "the hills: the best night ever": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "nicholas nickleby": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/AIpPswpVQ1wUEoJpm1WSRWP7YK.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/wZfDzaeIsvz2biJJICX1EM5P9ps.jpg"
+  },
+  "pulp fiction": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg"
+  },
+  "the warriors": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/d6YZpBq4BhQr1K985J3CuL1cA8J.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/7GDAldgmycOxNfEcycEX9IvVvIk.jpg"
+  },
+  "a boy and his dog": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/dMbkoFzD5sEQvEaqRsIh4pTBJVq.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/sWOQBQYkJvm8W7HGk6J8OAjPl2V.jpg"
+  },
+  "futureworld": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/sH5b8w52rEt8iqc1ibt1SwU5P.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/kGdrLjZ1J3XlD57LFjUQN6npCFQ.jpg"
+  },
+  "the amityville horror (1979)": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "midnight cowboy": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/ckklq45UxUkwgHve9xItXqXr06r.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/pEdb6DfEBgaXF7S0EHzqnJvTGex.jpg"
+  },
+  "restraining order": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/twhlRJnJ4MNIXoMFCYwzO8O0HYG.jpg",
+    "backdrop_url": ""
+  },
+  "rupaul's drag race: all stars": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/ArIu3xEo28LiKtiVWHNZdPFNZrM.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/emIR7nopXFsQILeBAFl49HJFoRq.jpg"
+  },
+  "julio cesar chavez vs scott walker": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
