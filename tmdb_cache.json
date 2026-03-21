@@ -3398,5 +3398,61 @@
   "shut it down": {
     "poster_url": "https://image.tmdb.org/t/p/w342/qLDEsPPR0g4zSKiTakZoz3uLe3o.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/49fm2QwQsBKZ9XZLXoqxpjKWtZN.jpg"
+  },
+  "passion fish": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/g60GELLr2oGnlJX5Yidkl9ufFYv.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/AiKGSLRxaEp7IMCsLCcAEf3L7Gt.jpg"
+  },
+  "underclassman": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/kOpQ5doAbDaxKyGq91PugsCTOYO.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/4ODyigwyu03HZqFhvQqD5tpHwi.jpg"
+  },
+  "passing strange": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/wsFhgCnuEtRmt71OJm1WIxrJKLu.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/iYYfqafbG7TSBDi8hOS0YXb7ME1.jpg"
+  },
+  "double play": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/w2hAE3nNeUPwpWLXiCfOzcSFI22.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/usfywg6iOSzDiRHXHKomY1dhJK7.jpg"
+  },
+  "swingers": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/cEIVkvx6mGSjnkOxlXh6eHd1Y4K.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/8B8mdhvEy6mnu1whpLbd6ASoOOl.jpg"
+  },
+  "the truman show": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg"
+  },
+  "manhattan": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/qZeMzP3mNC9JbufbSmZYT0Z7rpj.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/mx7CXbxPGoQZ4cIGkMB4dvjQBV4.jpg"
+  },
+  "the kentucky fried movie": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/qk0iXBQgP6b4xfS2bIUNBSENJAn.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/fiSvjqNpjGJJEFryM7n4pIVQV6f.jpg"
+  },
+  "dillinger": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/62nI7ftMyd5q9LhHPE0yltPcQKT.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/bcoGYfydURioZifRIONTaOBQNVc.jpg"
+  },
+  "nwsl soccer": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "nwsl on ion match break show": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "nwsl on ion post match show": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "megan": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/xFsqpz9wn7yREHWGQvviiJE9RVO.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/etPBNpN9H4LHDZmE3mtAynIbF5I.jpg"
+  },
+  "spring break randb party!": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
