@@ -3530,5 +3530,41 @@
   "tchaikovsky symphony 2 and elgar's enigma variations": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "up in the air": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/useGH8nfwlaHK44IWEZdUYJOE2N.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/yTweHAwEokqAgZg1Io8e0zCJQvt.jpg"
+  },
+  "the imitation game": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg"
+  },
+  "the sapphires": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/3249QNApOMITMcIrnt16ckxd8Z8.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/42WCOoNzJy4iytEQDBiZgzQmThy.jpg"
+  },
+  "miss sharon jones!": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/ocN0bh0UPir1X3FYQ0NG6wxGQ6W.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/k4Tm4iaqXbMllnVxuolLPyYfp9f.jpg"
+  },
+  "i'm gonna git you sucka (1988)": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "only for one night": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/itF3zi543LCOicdzAXIuyqBZ0yz.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/3PVdfu2xDRo4MWgItvY5SOVEN5S.jpg"
+  },
+  "con queens": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/fQH865aj0bAjl9JzAVsNhRvc7mG.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/1V6QFbtyeTirdwy14aqZs5E4iaz.jpg"
+  },
+  "the hills: the hills": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "the hills: when you least expect it": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
