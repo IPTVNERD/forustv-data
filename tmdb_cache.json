@@ -3566,5 +3566,29 @@
   "the hills: when you least expect it": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "kandahar": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/lCanGgsqF4xD2WA5NF8PWeT3IXd.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/8TLkiYAUwEXInVCJ3cQVyZXChyZ.jpg"
+  },
+  "of mice and men": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/qAHLUMZyoW3iwj2b01B2nKcePTA.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/5HVwz8cImMEwcV2z1SMFyJHY51q.jpg"
+  },
+  "set it off": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/wpiARyUqTfabzakAXHMIUY6Tl1A.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/8ebAtpx6YVfRGrxPrs4nTTWSbT9.jpg"
+  },
+  "ned kelly": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/xmGQsMbXKELzD4n78uMoCsgJPi4.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/s7InPuEqbxTjuLUpIZeBX3R9uEA.jpg"
+  },
+  "black ink crew los angeles": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "gala from berlin 1998: songs of love and desire": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
