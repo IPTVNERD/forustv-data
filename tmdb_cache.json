@@ -3590,5 +3590,29 @@
   "gala from berlin 1998: songs of love and desire": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "the fighter": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/xfsFerGhO1h6rLk8vwLgMyQ8WVJ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/2kqmEQZqime0G3ULgrKtAq3WVdH.jpg"
+  },
+  "florence foster jenkins": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/c4cV732zTZ5pwtLh1OXQZ4LIgcu.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/9bzKHph5neHnyzlELO7zsA7rm6h.jpg"
+  },
+  "mahogany": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/rHnquMeqgzXOkk2qckWPY1cyvuL.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/kVzP2Hju0sjNCROGHk11bGpKhfc.jpg"
+  },
+  "fire in the sky": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/rTFrjAp1YV49DSTUGCyKSkaEHC8.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/rG8rGUrK3Ur6N2DuTVvjrtpV44l.jpg"
+  },
+  "the boys from brazil": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/w7IZT1HJNmWcEj3Axwlwhya02OX.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/iLRsNlnk8yoJB0ox4j1ER1XZiuz.jpg"
+  },
+  "goin' south": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/w8Bh4XSkFpXx0A5oQEqRSvcaSKG.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/vfDdZC1mrhzHrh65PCPnEjerhKX.jpg"
   }
 }
