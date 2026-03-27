@@ -3614,5 +3614,49 @@
   "goin' south": {
     "poster_url": "https://image.tmdb.org/t/p/w342/w8Bh4XSkFpXx0A5oQEqRSvcaSKG.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/vfDdZC1mrhzHrh65PCPnEjerhKX.jpg"
+  },
+  "lions for lambs": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/tpwq5AHgj13uBE06B07xWqWQV5i.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/tfE55NmC3tF2U0DtZkAYKvUHn5k.jpg"
+  },
+  "lbj": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/780oVVWLDHMx2DCn0xUHeOEw0na.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/nJcWJK4ZuW265ED63440Y3QRlhD.jpg"
+  },
+  "the last five years": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/dxTLKSTyGb5IXB64iNgU9AWAsXT.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/irxjcC0io2ibj703Wr0FQABeZdm.jpg"
+  },
+  "nine": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/bSxdTXktgPQPNwlkQ0DZtuAJXlb.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/3ixn2R4tPEUQuq5AWw5EngopyWZ.jpg"
+  },
+  "judgment night": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/3rvvpS9YPM5HB2f4HYiNiJVtdam.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/lIuseocAIWrEq8zl4EBCBH96e4z.jpg"
+  },
+  "point break": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/ihYOaSoQ4IPNhnxwwMPZAYprs3o.jpg"
+  },
+  "four rooms": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/75aHn1NOYXh4M7L5shoeQ6NGykP.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/c1BaOxC8bo5ACFYkYYxL0bBWRaq.jpg"
+  },
+  "another man, another chance": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/aW1k75z1NqVhH4TN938AO3UlGem.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/c4vaQQEEd95GEZEUfzAwyYxtQ9y.jpg"
+  },
+  "comes a horseman": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/iSX6HqUJM0Caxm4hK5N2EAPbLaV.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/uuEF8CfsfhOgy21t1nAEGObJPBN.jpg"
+  },
+  "the missouri breaks": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/3fbAVOm9w66jt1TMbeTO8wLyqxO.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/3ZIb0qJcx8aK2KpuLiZWO5amsf9.jpg"
+  },
+  "fiddler on the roof": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/v65PHx7Q6Jx0anyNeUOX07SJic9.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/n1pItGYLcgAh7c0ewjWeXKTjXFT.jpg"
   }
 }
