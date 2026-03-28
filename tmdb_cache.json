@@ -3658,5 +3658,37 @@
   "fiddler on the roof": {
     "poster_url": "https://image.tmdb.org/t/p/w342/v65PHx7Q6Jx0anyNeUOX07SJic9.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/n1pItGYLcgAh7c0ewjWeXKTjXFT.jpg"
+  },
+  "the master (2012)": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "room": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/2hHDMeYyZjbGWn0BeNH1cTMxuM7.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/cGV6R2vzT4TYIabf3JgmrOISQ0y.jpg"
+  },
+  "penitentiary": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/1XQOTbjwaFSSEdoJlhTcwRsJxG.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/uNbdOhz3oKYG3aVCMA1Z3JeB6RG.jpg"
+  },
+  "love songs": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/1HiBLpHSBbrT4MrTHdoDhhbJNTp.jpg",
+    "backdrop_url": ""
+  },
+  "destiny turns on the radio": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/kd04IvuW1wvgGoB2HxSuFVIU9rU.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/sC60syDjr6LfdwNDWWoRpmT7w8d.jpg"
+  },
+  "boy bye": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/aI0Zov2T0UfnAFM9L8nCNk9UmMQ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/pi4xhPR9GBc3K7Bb0n5DAsCwGlf.jpg"
+  },
+  "pwhl hockey": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "nwsl on ion pre match show": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
