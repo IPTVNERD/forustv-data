@@ -3718,5 +3718,29 @@
   "obsession": {
     "poster_url": "https://image.tmdb.org/t/p/w342/8nQmxCYvidrCMxYCPdhuls94cl9.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/dpaaxgmIe0cCId6CVIAOfNqkYm4.jpg"
+  },
+  "eight men out": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/9nh0w2C9h9KfJb0OsVg65O65b5s.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/6v594uUI5VOBjdlxiV0d6EOjvW.jpg"
+  },
+  "second coming": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/bxuwATxiBmSqWh0UZPkNtWPanwc.jpg",
+    "backdrop_url": ""
+  },
+  "wayne's world": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/fHwZnFNWR7PaS9t5EBwTvGPeoYQ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/lAvf5zzyOgTZmpRBRJFa7IVVqCK.jpg"
+  },
+  "wayne's world 2": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/72TBNPN06oo1myHqihwcCQVDl48.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/vEYezcwJlyONII4NXfydU1RFOyB.jpg"
+  },
+  "kingpin": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/gTIeheTQTnCfkqFA16Qhvagv7Qc.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/xM1ptJXfQ2RIIfCWjP0Gt13e7KL.jpg"
+  },
+  "when a stranger calls (1979)": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
