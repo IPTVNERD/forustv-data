@@ -3742,5 +3742,33 @@
   "when a stranger calls (1979)": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "hoodlum": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/hZrwqVXLyxxsNJHVc6bJKSUDkXA.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/4kr8dUmxSxCHQnaI6hYtEz49OvR.jpg"
+  },
+  "river runs red": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/8GsHFBf8uIZ5thXCGqKer9OOKkQ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/1dKbtYxthfOkBbcliS409KR7UdO.jpg"
+  },
+  "coneheads": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/vlpQnf0rl0FpMjWLS0TNd8Bog2F.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/rZs0mp3P228o66dg6KljxSmJGJP.jpg"
+  },
+  "four weddings and a funeral": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/ejFaHWnDP29z7ePw2cJVOsWvOvH.jpg"
+  },
+  "clerks": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/xunXvzFlkf1GGgMkCySA9CCFumB.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/7M0huD4pLqe15c3VSxBMCqzFMSW.jpg"
+  },
+  "chasing amy": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/tqydORBcNlQxy3ijgSpPurgDHM2.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/9dsOweKYJ6XAJteBIKEGOI0T2bf.jpg"
+  },
+  "the mechanic": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/i8IcT4oBKL793qyo91P1RnhroiQ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/dYb6kgvoGjUH59n2uB4eV9xqmKR.jpg"
   }
 }
