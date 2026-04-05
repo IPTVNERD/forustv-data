@@ -4090,5 +4090,65 @@
   "mahler, the song of the earth": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "the cooler": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/gq3cZxo7SS6HAXdaxObLIyw9N1r.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/7oVJSFrqARW4jRRimEqEpHKAp1Z.jpg"
+  },
+  "selena": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/tN3LgXBh4JJ18lpXAkz44XeiVVX.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/zyYO509ExlHFrAE742zVyqcBOdz.jpg"
+  },
+  "35 and ticking": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/btW3UGhWOd3TnLseOI76EPjPQXB.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/iPmHmnsNZZp797vkEKGR8qp0Mil.jpg"
+  },
+  "harlem nights": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/mHX0aYjxc2cIOBfYBuaYN9SvbUf.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/tUPLfffhiJqvb75onmrC0nUkWax.jpg"
+  },
+  "first sunday": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/9l0sdc7ohLe6TdFsYyCTBnVn1F8.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/vWcJ4qWHNwxxXPs9NwTWoWEHlXo.jpg"
+  },
+  "scary movie 3": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/lpNG1nx67rvYze1b1R9q0YoSzrC.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/nF74HKjNe7X54XMcIc7ulK5InxR.jpg"
+  },
+  "bad lieutenant": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/mVJ2mXykqq3t2v1nuouf1P10g0d.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/9oE1dqocQou2tdmt0Rne7uv4jSi.jpg"
+  },
+  "double jeopardy": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/dPd9QvEeMQpgHO6iLB1LqALTZl.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/fk4NXhazfRKtQaVEV9IPeM7OIVH.jpg"
+  },
+  "scars of dracula": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/yS06u6RqaY3saimoVr6ZVZP9K7s.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/df3uxnz6QXQokqx60UXrjFFduaR.jpg"
+  },
+  "carrie (1976)": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "bad ass 3: bad asses on the bayou": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "music of hope celebration": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "jane and emma": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/u99L5WYfPzN54kH8XqJGOVsj0ww.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/v12OcUGYwwbmaUap0ULBVA2o6E0.jpg"
+  },
+  "their eyes were watching god": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/vVn2KohzehZMN40YmNM69HqXxWm.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/tl4LL0MOwiLbCDdfraWHI1LrZT4.jpg"
+  },
+  "la belle": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
