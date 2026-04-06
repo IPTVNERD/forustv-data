@@ -4150,5 +4150,37 @@
   "la belle": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "wendy and lucy": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/cVtF8SW4zMbculTXD52RDvmQAAR.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/wUScRcpPtfFPZpWZmUIIbHLEsBJ.jpg"
+  },
+  "mid90s": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/9Tw0Y3DK5kGIU9X1yw3Q9gCkOlb.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/BOeORWljjIPGuCwUgLls24ctF3.jpg"
+  },
+  "eighth grade": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/nDfZN2q1IPGaLiwAgr9sU209MU5.jpg"
+  },
+  "the talented mr. ripley": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/51UDa3IuGyiKGe2MgMcLGvJE2Fm.jpg"
+  },
+  "fist of fury": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/v6wahTqcsU3kcQ1uz7wQpFTZbIb.jpg"
+  },
+  "a force of one": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/7VrGDSXa7TD0fTljibymINxQ5Hg.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/iLGPSH7FOnPCANAW5ZUwy05UFUp.jpg"
+  },
+  "beethoven - violin concerto, op. 61": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "works for lute by j. s. bach": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
