@@ -4238,5 +4238,33 @@
   "dvorã¡k's slavonic dances, op. 46": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "almost famous": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/AqLtFRKVX2G0ghMnMnQoSGan4pY.jpg"
+  },
+  "beverly hills cop": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/tKi5HYDSuxP4I26fxyF2UVvAtLa.jpg"
+  },
+  "beverly hills cop ii": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/egDakU8O5yUwpUJP9IMAUVtIDll.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/bIA65PCRtIQfBvIoKohJbtOPl3M.jpg"
+  },
+  "beverly hills cop iii": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/7vIpCkgGEfk5LZwm78nMxswLJRH.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/yrzJZwLW41fEnEgav4vyhUpGb4k.jpg"
+  },
+  "faster": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/AsUeaXrhw4oscCSjUZ6heh1pVvd.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/jItFLAs2urRwwQ5rmc61LTd1les.jpg"
+  },
+  "the crush": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/4B0eHFjUYYZlkE1fthC29KVC4CS.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/h8RQ5X0SzCLtICqIEgw2Xqcb7oY.jpg"
+  },
+  "good guys wear black": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/qe6YEwpegOGzXhmGS7Xkwz9XxVR.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/gZ2GqPavjpLlhFo9AlML8mM7iyg.jpg"
   }
 }
