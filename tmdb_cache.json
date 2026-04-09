@@ -4266,5 +4266,29 @@
   "good guys wear black": {
     "poster_url": "https://image.tmdb.org/t/p/w342/qe6YEwpegOGzXhmGS7Xkwz9XxVR.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/gZ2GqPavjpLlhFo9AlML8mM7iyg.jpg"
+  },
+  "trumbo": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/2RERIRnZkROSeHZAIf8PSxhzOqs.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/saa1scU6UIBJi9bMEvLNzXXKnDD.jpg"
+  },
+  "rocky marciano": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "girl in the garage: the laura cowan story": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/A9rAaA69VaFWtJ8B3vAT4JASo1h.jpg",
+    "backdrop_url": ""
+  },
+  "women's soccer": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "teal rising cup match break show": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "the big gay sketch show": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/5N69rfnJmFMei5nCe4qRT5d8Vyx.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/xtaLVfHzqDSeAAcqQe3fOwDVAMM.jpg"
   }
 }
