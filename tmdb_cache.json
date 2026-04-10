@@ -4290,5 +4290,41 @@
   "the big gay sketch show": {
     "poster_url": "https://image.tmdb.org/t/p/w342/5N69rfnJmFMei5nCe4qRT5d8Vyx.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/xtaLVfHzqDSeAAcqQe3fOwDVAMM.jpg"
+  },
+  "whiskey tango foxtrot": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/wAxhQsY63VY6eF3EilXTkX0YRoU.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/vZuAKGPq0uRyvXg0A1ONxhBQogS.jpg"
+  },
+  "monster's ball": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/rQeufx98gKH4CCeVw57KT1Fd0gr.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/2n80J4nBfhL4nyKxIsigY8n6qKf.jpg"
+  },
+  "warrior": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/akshc6F3VmhJpvniRRlgqDt1ndT.jpg"
+  },
+  "jungleland": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/34jYoAAlkZnfyJiJWpjmrDc9zFR.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/3r4WLvWPGgc2fbdmoSoJOsyzh9c.jpg"
+  },
+  "running out of time": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/9ccrrOMnpeQm9SI0PL2E1d4stn6.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/a0jFMDNLmkIooaOvlWHnkrUJMeF.jpg"
+  },
+  "lazarus": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/8ViqUWPWh6aPZGQA57FMRVmaXZ1.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/fgcSUbheJ2nml1g7y5QNvR4s16d.jpg"
+  },
+  "catwoman": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/pvnPgukFyEKgCzyOxyLiwyZ8T1C.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/wbwHIbOAAYHqhsaFFsFQV62Wr6.jpg"
+  },
+  "desert stage hip-hop and randb": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "schubert - symphony no. 9 in c major, d 944": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
