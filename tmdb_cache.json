@@ -4326,5 +4326,21 @@
   "schubert - symphony no. 9 in c major, d 944": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "a fistful of dynamite": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "bad connection": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/rq3uznZUyjQEhRS4dV2AWRinAnL.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/kUATo6KXadiJD9WRNmmfrGHcOlm.jpg"
+  },
+  "the a-list: dallas": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/5A143lkWMWuMBWZxHKwpqRdhNDl.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/aPwns11S2vlE8C84TMlVlP5DA47.jpg"
+  },
+  "mahler - symphony no. 9": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/cazQ6k2IsMxOL4pnBrXIcW5GUc1.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/2VTuxP9kAFDqL1cuKarEskPCcvv.jpg"
   }
 }
