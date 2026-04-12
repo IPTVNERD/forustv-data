@@ -4342,5 +4342,13 @@
   "mahler - symphony no. 9": {
     "poster_url": "https://image.tmdb.org/t/p/w342/cazQ6k2IsMxOL4pnBrXIcW5GUc1.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/2VTuxP9kAFDqL1cuKarEskPCcvv.jpg"
+  },
+  "needle in a timestack": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/rjGYOszxlaUAe6EC5yZ4Q8l3aVL.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/lRJNEdKlA47JVo3DcDd3jXrQepe.jpg"
+  },
+  "kids in the hall: brain candy": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/j7LYkIa2KC98ZqZmFIjEmtvlv87.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/fo36kjgpOr5WaseOYmaN0WvLRHY.jpg"
   }
 }
