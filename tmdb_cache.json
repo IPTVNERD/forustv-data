@@ -4350,5 +4350,25 @@
   "kids in the hall: brain candy": {
     "poster_url": "https://image.tmdb.org/t/p/w342/j7LYkIa2KC98ZqZmFIjEmtvlv87.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/fo36kjgpOr5WaseOYmaN0WvLRHY.jpg"
+  },
+  "the immigrant": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/ArWRRQYeXL3nG4jYpMOPoBvgmy9.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/mqIheOKqtRD7Z9l4kEmic7BDqEZ.jpg"
+  },
+  "life (1999)": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "bayou caviar": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/up28fmhXm5eZjasXEZ352NdxDLq.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/w0q9xW1nekWkKVIkwEjB9mxjH23.jpg"
+  },
+  "sidekicks": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/osRefdHexPyyEmhviMN3Iev1UQU.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/7pZ6LBp1R45F1Kr99WYlw2JvJDU.jpg"
+  },
+  "bullets over broadway": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/6zfPDvqeZUleXjNaU5iWQwHUtCN.jpg"
   }
 }
