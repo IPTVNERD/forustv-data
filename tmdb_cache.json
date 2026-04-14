@@ -4370,5 +4370,17 @@
   "bullets over broadway": {
     "poster_url": "https://image.tmdb.org/t/p/w342/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/6zfPDvqeZUleXjNaU5iWQwHUtCN.jpg"
+  },
+  "half nelson": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/zhlN8gdXU7cUgs553cdSvd1KtL9.jpg",
+    "backdrop_url": ""
+  },
+  "personal velocity": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/2Jkt0PQBU2lmSm4zQcyJBWvRGpv.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/zPOsgnW67I0US9fJ9kAKXGwbcWC.jpg"
+  },
+  "if not now, when?": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/8v2x58p5BoY2FX9RIXidtSaDMW1.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/hpTS5orFZ3L2zeGJ50s5upRBFyT.jpg"
   }
 }
