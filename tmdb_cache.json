@@ -4418,5 +4418,17 @@
   "works by mendelssohn and hensel": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "dead again": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/iqSmb9ugb8xK6avZ3Wglxue39N8.jpg",
+    "backdrop_url": ""
+  },
+  "igby goes down": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/f53JBgzYESamcYT3LkUeeoSXPgi.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/szK2fXjZ88sM0aHFQ9JziyWIJ64.jpg"
+  },
+  "my week with marilyn": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/5naqXRY1Zug5cyJJbO9H4DOg28q.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/hcd6fUy5Tzt7rg6DZkgBX9xBusm.jpg"
   }
 }
