@@ -4430,5 +4430,21 @@
   "my week with marilyn": {
     "poster_url": "https://image.tmdb.org/t/p/w342/5naqXRY1Zug5cyJJbO9H4DOg28q.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/hcd6fUy5Tzt7rg6DZkgBX9xBusm.jpg"
+  },
+  "grace of monaco": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/kHiiS7rG7VMTp5a5fbH0WCKs9mS.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/giKpSN2ZBCAUQ670nhyRAu3U9Pd.jpg"
+  },
+  "shattered glass": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/ekHG7UsZVxBUGGa0NvxrBXtZVuL.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/u4OUSKeFwuP1z42dL58Mi0LYwIg.jpg"
+  },
+  "bats": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/pZRcf2BwcxWg594X6XT2jkR2qdb.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/z7oaOABTOvKK01XqA1BlE9VybYc.jpg"
+  },
+  "dope videos": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
