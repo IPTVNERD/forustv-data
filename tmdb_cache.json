@@ -4470,5 +4470,17 @@
   "strauss - piano quartet in c minor, op. 13 - i": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "rescue dawn": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/ymPlV2ymUBSctfRzpehFOxFmJiS.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/q4RamDqx4kXCrUvk49o4FmVBbb.jpg"
+  },
+  "the indian runner": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/1NmjsvXcqe4yyGKfOwLDcxl4HLY.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/wRq5LjJYRbtDb2k7bEtDvFezCeI.jpg"
+  },
+  "the hunting party (1971)": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
