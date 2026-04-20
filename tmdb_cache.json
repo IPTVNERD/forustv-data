@@ -4482,5 +4482,33 @@
   "the hunting party (1971)": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "the messenger": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/p4fJyH7mMbasiFYwiw2nE7D6pMY.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/1AoLBTknFVs7n9ieTLAqZe1LwWg.jpg"
+  },
+  "losing isaiah": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/oHALKuPewtqIn2BcluZsGvcEG1P.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/xt4tkFRKwT1uiOpMpszIqFwOoji.jpg"
+  },
+  "traitor": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/va4Uo7L2b4d96JTdRMclO9L2hY0.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/dmIKpN5Pkgp9eZDBF7OyM5106Oy.jpg"
+  },
+  "jay and silent bob strike back": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/aEsAdMAhwKYFgnHHxMOknktQYKK.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/2K4ZRi6bYrl9Ha53uRi4ZyoYuft.jpg"
+  },
+  "lenny": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "rockers": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/oWPwk4CwVCw50DBEao8Dj0jIlIV.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/ahBJZf8YUYPrGxOmQ1IzmPIt8FV.jpg"
+  },
+  "mahler -- symphony no. 2, resurrection": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/bdXJsMuWdZOZrpfuDZcHuB5K5Pw.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/pHAqXcqjPbaqbnE3TDoqVROrKF8.jpg"
   }
 }
