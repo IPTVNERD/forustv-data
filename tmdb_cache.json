@@ -4510,5 +4510,17 @@
   "mahler -- symphony no. 2, resurrection": {
     "poster_url": "https://image.tmdb.org/t/p/w342/bdXJsMuWdZOZrpfuDZcHuB5K5Pw.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/pHAqXcqjPbaqbnE3TDoqVROrKF8.jpg"
+  },
+  "the fantasticks": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/hfO64mXz3DgUxkBVU7no2UWRP7x.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/rJHqxsUOU5NJ4DlsIlHYBuYMLS7.jpg"
+  },
+  "clifford": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/ym5iYreD35Qa4Kjq9FOmtMqCtMF.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/5vOca8MbJGUGvZSu229qpJUoyaK.jpg"
+  },
+  "my dad's a soccer mom": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/oRPsuFpCruy1WUR7nNVpVXLAtea.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/ip31d38D2wOZQ825NFaQMwvZExz.jpg"
   }
 }
