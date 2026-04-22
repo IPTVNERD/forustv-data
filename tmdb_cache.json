@@ -4522,5 +4522,9 @@
   "my dad's a soccer mom": {
     "poster_url": "https://image.tmdb.org/t/p/w342/oRPsuFpCruy1WUR7nNVpVXLAtea.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/ip31d38D2wOZQ825NFaQMwvZExz.jpg"
+  },
+  "hesher": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/dD03azf3h1hUHVzVkkqJs96Kkay.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/1naAvovOZDe21QOvdJ4e6GnFqcs.jpg"
   }
 }
