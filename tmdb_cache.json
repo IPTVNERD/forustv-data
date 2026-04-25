@@ -4558,5 +4558,25 @@
   "little boxes": {
     "poster_url": "https://image.tmdb.org/t/p/w342/2MARwPALPBlLUN9OyBqvDdeSenQ.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/695NemGEoXUCo6YpYSRyj1gJmwz.jpg"
+  },
+  "frida": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/a4hgR6aKoohB6MHni171jbi9BkU.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/gcGaSXzmodu53ABb0wOWrVWjKeg.jpg"
+  },
+  "the piano lesson": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/qNSk9cKItq2bBSz2auq8WHDyab5.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/qUOxMaLLliAUax3wuP67Y8ZsN0J.jpg"
+  },
+  "being mary jane": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/j4lx9nB4C1H9axyuZYn8GX2DYak.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/nLu4tQ4Q8oGep7QuSVKhn4fT4KY.jpg"
+  },
+  "wnba": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "mozart: gran partita": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
