@@ -4578,5 +4578,21 @@
   "mozart: gran partita": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "richard pryor: live and smokin'": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/pdq8rXPK7vMLGL7124HVxioaggZ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/A6SFSHRVnvxApPlklmBlYb7uBw1.jpg"
+  },
+  "trois 2: pandora's box": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "things never said": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/y43avm4ZRFLpwvbdVSJkFdqn9QJ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/jFq5iDXgYg3pyq2nvOG5D0mVG2C.jpg"
+  },
+  "mulholland falls": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/tT5rYDXloX5ZxISr8HdlRC9TBcP.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/3RbfSjGLDKHSvoUEVxPZHODJMXS.jpg"
   }
 }
