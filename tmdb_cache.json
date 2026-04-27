@@ -4594,5 +4594,9 @@
   "mulholland falls": {
     "poster_url": "https://image.tmdb.org/t/p/w342/tT5rYDXloX5ZxISr8HdlRC9TBcP.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/3RbfSjGLDKHSvoUEVxPZHODJMXS.jpg"
+  },
+  "freedom writers": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/81AdeUQT99N0xPg3j6RVh0YGOTk.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/oVCyqxwLkRPJC51w89Dwp6VL9vk.jpg"
   }
 }
