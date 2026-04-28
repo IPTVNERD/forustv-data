@@ -4598,5 +4598,17 @@
   "freedom writers": {
     "poster_url": "https://image.tmdb.org/t/p/w342/81AdeUQT99N0xPg3j6RVh0YGOTk.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/oVCyqxwLkRPJC51w89Dwp6VL9vk.jpg"
+  },
+  "capricorn one": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/bxsCARg2rxQ2PzFW5ZsADLT9e9c.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/d4qAHbs8wLBnRatYCPvtp3F48bO.jpg"
+  },
+  "burnt offerings": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/2ipG69lXOjGMX7F7qxJQzUoiUsd.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/sve315CAjMhSZBKBthDHJI77gmb.jpg"
+  },
+  "the long goodbye": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/4dEUdgZdu6527OKdMn2mEA2t4xA.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/xAdAAZSqwwUfifahYPnZKHXACDi.jpg"
   }
 }
