@@ -4610,5 +4610,21 @@
   "the long goodbye": {
     "poster_url": "https://image.tmdb.org/t/p/w342/4dEUdgZdu6527OKdMn2mEA2t4xA.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/xAdAAZSqwwUfifahYPnZKHXACDi.jpg"
+  },
+  "supercop (1996)": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "crazy mama": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/868gQ8gYhBggAy3meIx57fUfsDY.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/nKmecN2dvKLjkcFol7MdKb6lbiC.jpg"
+  },
+  "fresh finds: emerging api voices": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "symphony no. 3, in d minor": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
