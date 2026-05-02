@@ -4774,5 +4774,65 @@
   "classica": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "priscilla": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/zz219ZRGo0vVIzvKttjx5nXOc2N.jpg"
+  },
+  "factory girl": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/A5Sq71054VptVUQYGdIjjim4hFn.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/8eoOLd148gWhboEckk2HyRLZkpG.jpg"
+  },
+  "are we done yet?": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/uZ9NZh4zB80phMxo5PucFyWagjG.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/kRuJtn6xhM7PxtC8YU9s0jdPOJf.jpg"
+  },
+  "galaxy quest": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/fZXSwgZknp81vmciTb86rw0MejV.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/yzQ0mkz1OUJKtUK1NWp53jiGcaJ.jpg"
+  },
+  "the godfather": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg"
+  },
+  "the godfather part ii": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/kGzFbGhp99zva6oZODW5atUtnqi.jpg"
+  },
+  "my wife and kids": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/eyQsN8bU27fdIs2D66gFmcIo0dM.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/v9CyGKG1P2McFMAnOG4X59b7CI7.jpg"
+  },
+  "rebound": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/cioCtpRThVQB5UDnwDSGIljIu3j.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/lStAwZRfKAS7zfConWfbBQR3w0G.jpg"
+  },
+  "cradle 2 the grave": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/8iXpVITXenqPG8gQ0lCFpUMtZIx.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/jp5Gir5wCxpt9dzIZLauCFy1X95.jpg"
+  },
+  "to live and die and live": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/v2WXH7b28adZBqaDxEzU6mMayCy.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/4NyKUF05f0RM9sqKKNO6dWgm1W5.jpg"
+  },
+  "the culturally curated": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "beethoven -- symphony no. 8": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "bach - brandenburg concertos, bwv 1046-1051": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "strauss' metamorphosen and mozart's requiem": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "mozart - symphony no. 36 'linz'": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
