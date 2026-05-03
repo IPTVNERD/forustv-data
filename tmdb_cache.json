@@ -4834,5 +4834,81 @@
   "mozart - symphony no. 36 'linz'": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "the farewell": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/7ht2IMGynDSVQGvAXhAb83DLET8.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/5INPBiKVRsyp9kgHfsC0cTfvKFH.jpg"
+  },
+  "past lives": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/7HR38hMBl23lf38MAN63y4pKsHz.jpg"
+  },
+  "the monuments men": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/wiWAg4mKV2S4vImPxsPRIdj2R2B.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/vsLrBh3MALRGRB1pMErDQQz3l3c.jpg"
+  },
+  "a soldier's story": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/gMhT5JGFHvuFneG9EdN3uWNN84t.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/hTJ572EY5xq1TFqbedK6wfIwyN7.jpg"
+  },
+  "big eyes": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/203HAjJcLMl7xThcTqZx4zmEGcV.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/qis71iUABx2eTxN9FzOnLbnJ2OA.jpg"
+  },
+  "the manchurian candidate": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/bbec0wDUaV8nQnQHC6Fb0fSYwNM.jpg"
+  },
+  "four brothers": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/8cO39cnWSZQi2ncPG5TxL3YRzKc.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/2pITFeesu6aikrEknoH6bNXOdhk.jpg"
+  },
+  "dead presidents": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/eGfsSXizR11tTHVo0kuOOFPAxZt.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/c8H6Xi9im1tT6HP9PA9HpFE3sOy.jpg"
+  },
+  "multiplicity": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/rlG2vi85uSEwWigVTtqDecVFTxR.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/sihsl8L0G0RDIaKpQhNYQvIXJap.jpg"
+  },
+  "the pallbearer": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/zwHI9B3kcj3WqZoE2LaLDi6ZeAO.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/srCUjSUPXaMad9X3Zz3XlMBlS6A.jpg"
+  },
+  "so i married an axe murderer": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/zQlpQDKDADKlgqfMs1E191ofDJU.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/iVweNwFhEtlJlPxOkaDh8VboE9b.jpg"
+  },
+  "jawbreaker": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/7YrxXoG25hVCK4nYDHQv9YIk3Ye.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/bZ7ZMu8lGuEKmwH5lXRhlJAjYWv.jpg"
+  },
+  "the oval": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "the royal": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/x4YxZeQ7pGmaJVLzIQ784nzqDgX.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/hmTqTRhtszSiAXRZMqh4ZFCVlso.jpg"
+  },
+  "as good as dead": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/qqQPxxRQqfLrq0ubfDQCwhJHZ91.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/or8y8JFF0vR3N9ap0Vdhf9tfTxQ.jpg"
+  },
+  "gemini man": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/cT5m5m9X6hNbUrx7kUTsedAMivW.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/j1sGzyppkXO407OPFwkNVDE5Rlt.jpg"
+  },
+  "works by beethoven and saint-saã«ns": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "edusei conducts mendelssohn, schumann and boulanger": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "tchaikovsky - violin concerto, op. 35": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
