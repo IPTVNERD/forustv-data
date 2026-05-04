@@ -4910,5 +4910,57 @@
   "tchaikovsky - violin concerto, op. 35": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "instant family": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/xYV1mODz99w7AjKDSQ7h2mzZhVe.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/hgESQ2sK21j22Yode4w99jfwj44.jpg"
+  },
+  "allied": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/sV4lXM32quwminL3TP36nlNPp7Q.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/cdR0qwyaMfuZRfTYEixUmRnmdop.jpg"
+  },
+  "bet comedy movies": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "bill and ted's bogus journey": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/4PMSgLOzPFgyzARQBhhX4vS9oOW.jpg"
+  },
+  "the professional": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "the silence of the lambs": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg"
+  },
+  "assisted living": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "tyler perry's assisted living": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/A4Sw20fSr9rLV8ei2efU9Sn2Xqm.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/3zAzYjSUMYjdeY5gBTe7HTP0sMt.jpg"
+  },
+  "bet classics": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "kingdom come": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/70a4d1m1EiGpltPmtiCWMt3l0zK.jpg",
+    "backdrop_url": ""
+  },
+  "soul food": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/pHfIP0C5F0Vh5th9ru3mxhC0Zqc.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/pyCS8oWfBoLdn3eOHlu8q8oYapo.jpg"
+  },
+  "bounce xl": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "et at the met gala": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
