@@ -4990,5 +4990,29 @@
   "beethoven symphony no. 2 in d major, op. 36": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "we were soldiers": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/rpAMFrHHqpRCPbrBvYV9HHaVNB8.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/sGDXh6QU6CRqHVXfoYOBwqEnBVO.jpg"
+  },
+  "hamburger hill": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/a84FDoIm64qcyKq6BEMB9Ycldpt.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/pRpg9OAe4hrThTPxPSPzc185f0D.jpg"
+  },
+  "earth mama": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/pA20kQaKxPvUbPeXyyc6ENJEEuN.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/nLQ7jOeBmCQEETS3FCtZDWvYYtA.jpg"
+  },
+  "something like a business": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/j3umDq5PcWAAMybQyBscka1Y03G.jpg",
+    "backdrop_url": ""
+  },
+  "the harder they come": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/nXcWgfds0E8T2pQLvgWLCiUmlV6.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/4VMuH97CPGqsVBtuGWltp5BeyNj.jpg"
+  },
+  "big mama energy": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
