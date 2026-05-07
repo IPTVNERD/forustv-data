@@ -5014,5 +5014,41 @@
   "big mama energy": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "slice": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/bznkSqWqj43DhzHrbLehsr6ncb0.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/ymjOGuWAe1yv1ZUR5XFTbmDWBOR.jpg"
+  },
+  "the peacemaker": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/hc3p6pvIrfO4AmrVLb6qTviOwW2.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/lwEuFWTUsXbQWF6wU3Ui7mcAoId.jpg"
+  },
+  "hackers": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/w8H2KpRtpzwlxz5KrvINCVihok1.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/r7fk4I68wiGrhaExjtvnGtCAI1l.jpg"
+  },
+  "encino man": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/y8HtL6pyjfODdHOFgciFVFmt8Eq.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/2C4b0mHxy420fBk5xvbBwEf03bY.jpg"
+  },
+  "bio-dome": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/pjSkGZAvksrbO6tGain8PJ3rfC7.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/4pXKbwEFGxvBMFq4QjOjljtVzdq.jpg"
+  },
+  "major league volleyball": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "major league volleyball break show": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "red tails": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/dXmhYTdeMiuQFW4VpiWbfjtxtl9.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/k0q6OmVjVsMIocC3ovjh1Vzgx7J.jpg"
+  },
+  "slatkin conducts bolcom, beethoven and ravel": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
