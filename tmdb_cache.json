@@ -5050,5 +5050,49 @@
   "slatkin conducts bolcom, beethoven and ravel": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "first cow": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/8P3qur5Xh6dsH6xmZ1O2XS7vnc2.jpg"
+  },
+  "gladiator": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg"
+  },
+  "stepmom": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/wMPv2Yz6QDzv6YhSbaqM48Medl1.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/iteE4cNHQm8PWmWDuKcCCnMLhS3.jpg"
+  },
+  "can't hardly wait": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/r3a5gGWfS0SDS9nriNrJzSSrErf.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/yPVhkvOiI4UZC0jOpjO1HntlxHv.jpg"
+  },
+  "90s throwback": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "love and hip hop": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/mAzQWfA1ygpPdJvoBaikQjnF3jD.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/sY9Bjg9bXspzn7K7vXFSTdxlBdf.jpg"
+  },
+  "good fences": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/ilYmsYBI6jnWjIcltBkit3sl1q3.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/c7fniVqQD5jJqzrlf9rjgVPQBKu.jpg"
+  },
+  "wnba on ion pregame show": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "wnba on ion game break show": {
+    "poster_url": "",
+    "backdrop_url": ""
+  },
+  "the glimmer man": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/fMXc2nf3iZFsVbNNmJ5MCtjcwlk.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/oFs99SgcuVOwGhtew77rBKniNmi.jpg"
+  },
+  "the neighborhood: a farewell special": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
