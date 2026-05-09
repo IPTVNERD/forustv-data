@@ -5094,5 +5094,37 @@
   "the neighborhood: a farewell special": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "undisputed": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/q8smM97IBBEWmkaUCmkPqysh7k7.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/sTkJSkDkJnxCsk2FvKY2OL7NQcy.jpg"
+  },
+  "gang related": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/pQSAiKxKaA79UoraSUh1UyaGTrE.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/pQhlfQSbBhrRDHfAfHjkPuSxBmM.jpg"
+  },
+  "chameleon street": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/dSCOaTdPtzNzPAzsvp0nOW5QocE.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/wE2koUdIZPVQERB3GqrUEdplV6s.jpg"
+  },
+  "in and out": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/jUTQp6cPgfOX4St2WfaeUvxZCts.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/AlgiBrqgx9R21fJVORCDdrti7Z8.jpg"
+  },
+  "muriel's wedding": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/zJyTr8Fo412a2OIfJGXTRAm4IwX.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/x4sqnmV2nAKIG6cmt9WAF9xRA2M.jpg"
+  },
+  "bikini moon": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/7AZcfn9lT75UB4PEnl5lNFfUbYR.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/trUcEbQuWa8hvwrbrmio4mk7b0X.jpg"
+  },
+  "unstoppable": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/zKvHwL0GqLOear8rTnUPSTRYY0r.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/5JdyKWEzY6MQmJcIEdhbP4HozzZ.jpg"
+  },
+  "dã©jã  vu": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
