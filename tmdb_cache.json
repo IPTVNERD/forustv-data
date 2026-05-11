@@ -5158,5 +5158,33 @@
   "works by bach, bartã³k, and brahms": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "american buffalo": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/tkIMquxwzMzZUrnAv43e3w0eX0F.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/nkVsFtaCZTIgGwCTTkjqzMPGeAk.jpg"
+  },
+  "licorice pizza": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/fkn5KBUUKxbG7MjOs9poAOAik40.jpg"
+  },
+  "the defiant ones": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/38JFkjD3SZvbDKvgDEXPUXbK5d0.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/8K1GMQTRDXxLjMANVoZIfncb89l.jpg"
+  },
+  "i spy": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/jJBy1DabmJriKJ0a3Xzl79IAvus.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/vQKT7B7jCahjjL45Pjq9nI5x716.jpg"
+  },
+  "one down, two to go": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/hK4BJHgN5gzlkL5tuJdwPrpGTW5.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/vUHRtJ1oKdryFoav4VCWE47gLMF.jpg"
+  },
+  "addams family values": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/sdxT2VjVSx9DRicwnuECUdBHeE7.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/sZhTfYouKM1iV3rVbgIVEQFQogA.jpg"
+  },
+  "the black stallion": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/uZtNc31LR5Ik3ZVo2jxwOvhkNRC.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/am84QBW5S17uKUeuWvjLIS8urrr.jpg"
   }
 }
