@@ -5198,5 +5198,13 @@
   "bet visionaries": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "smoke": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/c6xRvQCL07MVNamjfVU2an600q9.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/4F7IE2OEcHsWZwIu1OvXDyiRD84.jpg"
+  },
+  "blue in the face": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/u0iwm9SDjlfFZDrSdSbcebX7VUG.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/qszPxuer6ibhX8IAFVrGPeAGlAF.jpg"
   }
 }
