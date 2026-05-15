@@ -5226,5 +5226,21 @@
   "olivia dean essentials": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "the bounce back": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/jPEc1SFKbKnvFb4b0E1oAiGcDg3.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/orqcWMPuJHIOPKHI1LJQ9iPLp4z.jpg"
+  },
+  "cutthroat island": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/hYdeBZ4BFXivdouxLfQGWNE6zRx.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/hHoIQVAmTg4RM7PPNhNvMlJk3mg.jpg"
+  },
+  "the man in the iron mask": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/tSLWIX3NzqFPWNMNX7FfeExHCRk.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/uhhtglfXNaTavkKtjer38qHLfVi.jpg"
+  },
+  "et takeover: dutton ranch": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
