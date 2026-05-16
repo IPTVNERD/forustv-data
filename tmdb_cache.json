@@ -5242,5 +5242,13 @@
   "et takeover: dutton ranch": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "mafia": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/mTlImT2XQcPKtZFSCVWXRBWL4Kx.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/pOxhGPhtoiSQ5aOyaw2PKDSPezz.jpg"
+  },
+  "the a-list: new york": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/m7t0kmrqopGlK3eguwH38UiASm3.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/lHPaq8lv3KZ47ofZSZRUY4cgeIl.jpg"
   }
 }
