@@ -5250,5 +5250,17 @@
   "the a-list: new york": {
     "poster_url": "https://image.tmdb.org/t/p/w342/m7t0kmrqopGlK3eguwH38UiASm3.jpg",
     "backdrop_url": "https://image.tmdb.org/t/p/w780/lHPaq8lv3KZ47ofZSZRUY4cgeIl.jpg"
+  },
+  "solomon northup's odyssey": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/rUalKWgf3ORcXwqUiHADyM48uuA.jpg",
+    "backdrop_url": ""
+  },
+  "scheme queens": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/8MNdzTxOqcwhuSSJkQ0frnWhNYP.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/qBnfEq0aL3r7hKYwuDtcur34QcO.jpg"
+  },
+  "premier women's rodeo championship": {
+    "poster_url": "",
+    "backdrop_url": ""
   }
 }
