@@ -5262,5 +5262,17 @@
   "premier women's rodeo championship": {
     "poster_url": "",
     "backdrop_url": ""
+  },
+  "gloria bell": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/oTfAWQXUceUszmifA4AwkIsDccQ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/547fjELV7imMeSJrmkK2FeVHjvf.jpg"
+  },
+  "janet planet": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/i4qK3vQS4MD8OKhIkqSe3UK6OuH.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/fuv2TxJb1retWu3XMwsVJqm8ylr.jpg"
+  },
+  "death warrant": {
+    "poster_url": "https://image.tmdb.org/t/p/w342/95mcKAcTgvonhx3BS5psLguyEVu.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/mYiTorq97lCQHUDTbk7M4jiT5B0.jpg"
   }
 }
